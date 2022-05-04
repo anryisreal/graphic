@@ -1,4 +1,4 @@
-import sys
+import sys #not amogus
 import pygame
 import math
 
